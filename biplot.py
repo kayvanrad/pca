@@ -1,4 +1,5 @@
 
+import matplotlib
 import matplotlib.pyplot as plt
 
 def biplot(x,coeff, classes=None, var_names=None, show_loadings= True):
